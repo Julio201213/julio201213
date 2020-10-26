@@ -1,5 +1,7 @@
 ### Hi there 👋
 # Mi nombre es Julio Cesar Lopez Fernandez
+. Estudios
+1 diseño Grafico
 <!--
 **Julio201213/julio201213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
