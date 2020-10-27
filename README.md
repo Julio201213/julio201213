@@ -7,10 +7,10 @@ Vivo en Medellin - Antioquia.
 
 - Conocimientos
 
-1. ***Manejo de CorelDraw.***
-2. Adobe Photoshop
-3. Microsoft Office
-4. Mantenimiento y reparacion de Hardware y Software
+1. **Manejo de CorelDraw.**
+2. *Adobe Photoshop*
+3. **Microsoft Office**
+4. *Mantenimiento y reparacion de Hardware y Software*
 
 ### tengo un poco de conocimiento en HTML y CSS
 
