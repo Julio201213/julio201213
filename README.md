@@ -16,4 +16,4 @@ Vivo en Medellin - Antioquia.
 
 ## :eyes:Aqui aprendiendo un poco de GitHub:eyes: 
 
-![me](https://recluit.com/WP-Blog/wp-content/uploads/2018/09/di%CC%81a-de-los-programadores-recluit-2018-640x320.jpg)
+![Imagen](https://recluit.com/WP-Blog/wp-content/uploads/2018/09/di%CC%81a-de-los-programadores-recluit-2018-640x320.jpg)
