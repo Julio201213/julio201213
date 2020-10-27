@@ -12,4 +12,8 @@ Vivo en Medellin - Antioquia.
 3. Microsoft Office
 4. Mantenimiento y reparacion de Hardware y Software
 
+### tengo un poco de conocimiento en HTML y CSS
+
 ## :eyes:Aqui aprendiendo un poco de GitHub:eyes: 
+
+![me](https://recluit.com/WP-Blog/wp-content/uploads/2018/09/di%CC%81a-de-los-programadores-recluit-2018-640x320.jpg)
