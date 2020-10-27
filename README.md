@@ -1,17 +1,13 @@
 ### Hi there 👋
-# Mi nombre es Julio Cesar Lopez Fernandez
-. Estudios
-<!--
-**Julio201213/julio201213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mi nombre es Julio Cesar Lopez Fernandez.
 
-Here are some ideas to get you started:
+Soy diseñador grafico y tecnico de computadoras, tengo 45 años, soy casado, tengo un hijo adolescente, estoy iniciando en este mundo de la programacion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vivo en Medellin - Antioquia.
+
+- Conocimientos
+
+1. Manejo de CorelDraw.
+2. Adobe Photoshop
+3. Microsoft Office
+4. Mantenimiento y reparacion de Hardware y Software
